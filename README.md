@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mumin Osman</h1>
-<h3 align="center">full-stack developer from Somalia</h3>
+<h3 align="center">Web Developer from Somalia</h3>
 
 - 🔭 I’m currently working on **Mern Stack Developer**
 
-- 🌱 I’m currently learning **Full-Stack developer**
+- 🌱 I’m currently learning **Mobile app developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedDalabey143](https://github.com/MohamedDalabey143)
 
